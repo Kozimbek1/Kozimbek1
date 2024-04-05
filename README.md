@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left"> 💁🏻‍♂️Родился 22.09.2005<br> 📚 Изучаю Python 01.10.2023-x.x.2024<br> 🎓 Студент ТГЭУ<br> 🏢 Живу в Ташкенте</p>
+<p align="left"> 💁🏻‍♂️Дата рождения 22.09.2005<br> 📚 Изучаю Python с 01.10.2023<br> 🎓 Студент ТГЭУ<br> 🏢 Живу в Ташкенте</p>
 
 ###
 
@@ -22,13 +22,13 @@
 
 
 ###
-
+<h2 align="left">Технологии</h2>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" height="40" alt="Django logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
   <img width="12" />
