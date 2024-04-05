@@ -14,7 +14,12 @@
 
 ###
 
-<h2 align="left">Я работаю с:</h2>
+<h2 align="left">Язык программирования</h2>
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
+<img width="12" />
+</div>
+
 
 ###
 
