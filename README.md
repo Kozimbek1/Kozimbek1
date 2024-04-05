@@ -1,42 +1,9 @@
-<h1 align="left">Hello World!👋</h1>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Kozimbek1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Kozimbek1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kozimbek1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-###
+---
+[![](https://visitcount.itsvg.in/api?id=Kozimbek1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h3 align="left">Меня зовут КОЗИМБЕК</h3>
-
-###
-
-<h2 align="left">Про меня:</h2>
-
-###
-
-<p align="left"> 💁🏻‍♂️Дата рождения 22.09.2005<br> 📚 Изучаю Python с 01.10.2023<br> 🎓 Студент ТГЭУ<br> 🏢 Живу в Ташкенте</p>
-
-###
-
-<h2 align="left">Язык программирования</h2>
-<div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
-<img width="12" />
-</div>
-
-
-###
-<h2 align="left">Технологии</h2>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" height="40" alt="Django logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" height="40" alt="Django logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-</div>
-
-###
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
