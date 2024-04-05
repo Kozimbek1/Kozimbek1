@@ -10,16 +10,16 @@
 
 ###
 
-<p align="left">📚 Изучаю Python 01.10.2023-x.x.2024<br>🎓 Студент ТГЭУ</p>
+<p align="left"> Родился 22.09.2005<br> 📚 Изучаю Python 01.10.2023-x.x.2024<br> 🎓 Студент ТГЭУ<br> </p>
 
 ###
 
-<h2 align="left">Я работаю с</h2>
+<h2 align="left">Я работаю с:</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
