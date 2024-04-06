@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👼🏻 Дата рождения: 22.09.2005<br>🗺 Место проживание: Ташкент<br>📚 Изучаю Python с 01.10.2023<br>🎯 Цель: Найти кр3утую команду<br></p>
+<p align="left">👼🏻 Дата рождения: 22.09.2005<br>🗺 Место проживание: Ташкент<br>📚 Изучаю Python с 01.10.2023<br>🎯 Цель: Найти крутую команду<br> 📚 Изучаю веб-разработку в "Najot Ta'lim"</p>
 
 ###
 
@@ -25,9 +25,10 @@
 <h2 align="left">ХОСТИНГ</h2>
 <p> RENDER, HEROKU, PYTHONANYWHERE</p>
 
-- 📫 Как сомной связаться? **xabibullayevkozimbek2005@gmail.com**
+-<h2 align="left">📫 Как сомной связаться?</h2>**xabibullayevkozimbek2005@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left">СОЦИАЛЬНЫЕ СЕТИ:</h3>
 <p align="left">
 <a href="https://instagram.com/https://instagram.com/its_homieeee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/its_homieeee/" height="30" width="40" /></a>
 </p>
