@@ -18,7 +18,7 @@
 ###
 
 <h2 align="left">ТЕХНОЛОГИИ</h2>
-<p> DJANGO, DJANGO REST, POSTGRESQL, MYSQL, SQLITE, RESTAPI, CORE HTML</p>
+<p> DJANGO, DJANGO REST, POSTGRESQL, MYSQL, RESTAPI, CORE HTML, TAILWIND CSS</p>
 
 -<h2 align="left">📫 Как сомной связаться?</h2>**xabibullayevkozimbek2005@gmail.com**
 
